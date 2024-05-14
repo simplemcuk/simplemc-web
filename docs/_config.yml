@@ -28,12 +28,12 @@ discordChannelID: 450428756855750666
 # #   url - The link it should go to (for example, if you have "maps.md" file, put "maps")
 # #   newtab - Whether link should open in new tab
 # 
-siteNav:
-  - name: About Us
-    url: about
-  - name: Store
-    url: https://store.simplemc.co.uk
-    newtab: true
+# siteNav:
+#  - name: About Us
+#    url: about
+#  - name: Store
+#    url: https://store.simplemc.co.uk
+#    newtab: true
 
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
